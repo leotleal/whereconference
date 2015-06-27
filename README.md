@@ -14,6 +14,6 @@ Requisito para configuração da API:
 - Seguir os passos da documentação em Documentation/WebserviceAPISpecificationDocTemplate.docx
 
 #URLs Base
-<base_url>conference/conferencias
-<base_url>conference/categorias
-<base_url>conference/areas
+- <base_url>conference/conferencias
+- <base_url>conference/categorias
+- <base_url>conference/areas
